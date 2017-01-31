@@ -1,20 +1,9 @@
-<DOCTYPE html>
 
-<html>
-
-<head>
-	<title>My First CSS</title>
-	
-	<link rel="stylesheet" href="style.css"
-</head>
-
-<body>
 	<style>
 h1 {text-align: center;
 	color: red;}
 	</style>
 
-	<h1>Hello World!</h1>
 	
 	<hr>
 	<style>
@@ -23,28 +12,20 @@ h1 {text-align: center;
 		u {text-decoration: underline;}
 	</style>
 	
-	<h2>A place I would like to visit</h2>
+	
 	
 	<style>
 		p {color: green;
 			font-family: tahoma;}
 	</style>
 	
-		<p>If I could visit anywhere in the world it would be Greece. I'd visit Greece because they have many interesting places I'd like to
-		visit. I really admire the culture there. I'd love to visit Greek their temples for the gods.</p>
 		
-		<p> </p>
-			<a href="https://en.wikipedia.org/wiki/Greece">Greece</a>
-			
-	<!--Greece link--!>
-	
 	<style>
 		h2 {text-align: center;}
 	
 		u {text-decoration: underline;}
 	</style>
 		
-	<h2>A person I admire <br> (past or present)</h2>
 	
 	<style>
 		p {color: green;
