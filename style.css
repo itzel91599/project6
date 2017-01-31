@@ -1,28 +1,21 @@
 
-	<style>
 h1 {text-align: center;
-	color: blue;}
-	</style>
+	color: red;}
 
 	
-	<hr>
-	<style>
-		h2 {text-align: center;}
-	
-		u {text-decoration: underline;}
-	</style>
+h2 {text-align: center;
+	font-style: italic;}
+u {text-decoration: underline;}
 	
 	
 	
-	<style>
-		p {color: green;
-			font-family: tahoma;}
-	</style>
+p 	{color: green;
+	font-family: tahoma;}
+
 	
 		
 	<style>
 		h2 {text-align: center;}
-	
 		u {text-decoration: underline;}
 	</style>
 		
